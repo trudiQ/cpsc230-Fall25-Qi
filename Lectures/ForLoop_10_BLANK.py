@@ -11,7 +11,7 @@ print("QUESTION 1:")
 
 '''
 2. Use a for loop and range() to create integers from 0 to 5 and print them out.
-Use a loop variable to count iteration number and print it out after the for loop.
+Use a counter variable to count iteration number and print it out after the for loop.
 '''
 print("QUESTION 2:")
 # write your code below
@@ -20,7 +20,7 @@ print("QUESTION 2:")
 
 
 '''
-3. Use a for loop to iterate a list of numbers, use variable num_neg 
+3. Use a for loop to iterate a list of numbers, use counter variable num_neg 
     to count the number of negative numbers (< 0), and print the result.
 '''
 print("QUESTION 3:")
