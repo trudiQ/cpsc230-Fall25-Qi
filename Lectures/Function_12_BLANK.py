@@ -47,7 +47,7 @@ print("QUESTION 2 ---------------")
 3. PART 1: Define a function that returns True if the input parameter, number, is greater than 10,
     and returns False otherwise.
    PART 2: Use the function's return as part of if/else to check 
-    the input argument of 16 and print out:
+    the input argument from the user and print out:
      "[argument] is greater than 10" or "[argument] is not greater than 10"
 '''
 print("QUESTION 3 ---------------")
